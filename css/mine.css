@@ -1,0 +1,29 @@
+.my-color{
+    background-color: #eee;
+}
+.my-color1{
+    background-image: linear-gradient(#EEE,#FFF);
+}
+.my-form{
+    border: none;
+    border-radius: 5px;
+    height: 28px;
+    border: .5px solid #eee;
+}
+.my-display{
+    display: block;
+}
+.color-grey{
+    color: #AAA;
+}
+.button-color{
+    background-color: #1167c4;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+button:hover{
+    box-shadow: 5px 5px 10px #AAA;
+    background-color: #00113f;
+}
